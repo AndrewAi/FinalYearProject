@@ -1,10 +1,3 @@
-# Basic Flask / Python Web Application College Project.
-#### Data Representation and Querying Project 2016
-
-This repository contains code and information for my third-year undergraduate project for the module **Data Representation and Querying**.
-The module is taught to undergraduate students at [GMIT](http://www.gmit.ie) in the Department of Computer Science and Applied Physics.
-My lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
-
 ### Project Overview
 I have created a Single-Page Web Application (SPA) Called Meme Base.
 
@@ -18,8 +11,7 @@ They can then view it by typing in their meme base name and their memes will be 
 and displayed on the web page.
 
 
-The project was guided by the following excerpt from the project instructions:
->You are required to develop a single-page web application(SPA) written in the programming language Python using the Flask framework. You must devise an idea for a web application, write the software, write documentation explaining how the application works, and write a short user guide for it.
+
 
 
 ## User Guide part 1:
@@ -75,6 +67,4 @@ Frameworks : Flask
 
 Databases : Couchdb
 
-Python 3 and Flask were requirements for the project, but Couchdb was selected by me
-as it is easy to use and does not require much setup to get the web application up and running.
 
